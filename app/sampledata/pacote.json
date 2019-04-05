@@ -1,0 +1,28 @@
+{
+  "pacotes" : [
+    {
+      "imagem" : "@drawable/recife_pe",
+      "local" : "Recife",
+      "dias" : "5 dias",
+      "preco" : "250,00"
+    },
+    {
+      "imagem" : "@drawable/foz_do_iguacu_pr",
+      "local" : "Foz do Iguaçu",
+      "dias" : "5 dias",
+      "preco" : "200,00"
+    },
+    {
+      "imagem" : "@drawable/rio_de_janeiro_rj",
+      "local" : "Rio de Janeiro",
+      "dias" : "5 dias",
+      "preco" : "210,00"
+    },
+    {
+      "imagem" : "@drawable/sao_paulo_sp",
+      "local" : "SãoPaulo",
+      "dias" : "5 dias",
+      "preco" : "190,00"
+    }
+  ]
+}
